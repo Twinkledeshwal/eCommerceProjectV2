@@ -1,0 +1,7 @@
+[INFO ] 2023-10-22 21:15:56.119 [main] eCommerceProjectV2 - url opened
+[INFO ] 2023-10-22 21:15:56.301 [main] eCommerceProjectV2 - verify login test execution strted....
+[INFO ] 2023-10-22 21:15:58.105 [main] eCommerceProjectV2 - clicked on sign in link again to verify
+[INFO ] 2023-10-22 21:15:58.415 [main] eCommerceProjectV2 - entered registered email
+[INFO ] 2023-10-22 21:15:58.637 [main] eCommerceProjectV2 - entered registered password
+[INFO ] 2023-10-22 21:16:00.329 [main] eCommerceProjectV2 - clicked on sign in link..
+[INFO ] 2023-10-22 21:16:00.412 [main] eCommerceProjectV2 - verifylogin - failed
